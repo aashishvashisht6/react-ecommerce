@@ -9,6 +9,7 @@ const currentTab = (history, path) => {
   }
 };
 
+
 const Menu = ({ history }) => (
   <div>
     <ul className="nav nav-tabs bg-dark">
